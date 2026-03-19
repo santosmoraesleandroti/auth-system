@@ -2,8 +2,6 @@
 
 API de autenticação desenvolvida com **FastAPI**, permitindo registro e login de usuários com segurança utilizando hash de senhas com bcrypt.
 
----
-
 ## Tecnologias utilizadas
 
 - Python 3
